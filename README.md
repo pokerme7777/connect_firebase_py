@@ -1,9 +1,9 @@
 # connect_firebase_py
 ## About connecting firebase using Python
 
-- Connecting Python to Firebase
+- A Python Env
 - Connecting with Firebase Admin
-- 
+- Retrieve data to local folder
 
 A key point, Firebase Stroage is actually Google Cloud Storage!
 
@@ -18,3 +18,7 @@ A key point, Firebase Stroage is actually Google Cloud Storage!
 ### Python Env 
 - 1. Python
 - 2. ```pip install firebase_admin```
+
+## Retrieve data to local folder
+- 1. Prepare your local folder
+- 2. Check `001_admin_SDK_setup.ipynb`
