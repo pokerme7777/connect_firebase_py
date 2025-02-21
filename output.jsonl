@@ -1,0 +1,4 @@
+{"timestamp": "2025-01-23_19_02", "class": "Lap", "image_name": "Photo.jpg", "description": "Description one\nThis is overlap"}
+{"timestamp": "2025-01-23_19_02", "class": "Table", "image_name": "Photo.jpg", "description": "Description"}
+{"timestamp": "2025-01-30_20_14", "class": "none", "image_name": "Photo.jpg", "description": "There is a gap on the wall"}
+{"timestamp": "2025-01-30_20_15", "class": "none", "image_name": "Photo.jpg", "description": "There is a gap on the wall"}
